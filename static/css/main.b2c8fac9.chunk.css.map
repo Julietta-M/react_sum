@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,KACE,cAAe,CAChB,KAGC,iBAAkB","file":"main.b2c8fac9.chunk.css","sourcesContent":["// styles go here\nbody {\n  font-size: 30px;\n}\n\n.sum {\n  text-align: center;\n}\n"]}
